@@ -19,6 +19,6 @@ Some of you would question me and ask, "Why would we need to use your website ju
 
 ### Website Links:
 1. <a href="https://www.facebook.com/">Facebook</a>
-2. https://www.youtube.com/
-3. https://www.whatsapp.com/
+2. <a href="https://www.youtube.com/">Youtube</a>
+3. <a href="https://www.whatsapp.com/">Whatsapp</a>
 4. 
