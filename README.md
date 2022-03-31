@@ -1,6 +1,6 @@
-##L
+Welcome to my Social Media Website where we can describe them and visit some of them just by visiting this website.
 
-You can use the [editor on GitHub](https://github.com/10-J4D3-06/J4D3.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Some of you would question me and ask, "Why would we need to use your website just by going to other websites? We would just type the website that we usually use and just enter." Well of course that is true but this is a website where we can learn more about them and store all the websites here if you forgot the name.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
