@@ -1,39 +1,24 @@
-Welcome to my Social Media Website where we can describe them and visit some of them just by visiting this website.
+### Welcome to my Social Media Website where we can describe them and visit some of them just by visiting this website.
 
 Some of you would question me and ask, "Why would we need to use your website just by going to other websites? We would just type the website that we usually use and just enter." Well of course that is true but this is a website where we can learn more about them and store all the websites here if you forgot the name.
 
-### 1. Youtube
+### 1. Facebook
+<img src="https://github.com/10-J4D3-06/Main/blob/main/Facebook.jpg" width="200" height="200" />
+- Facebook is a website which allows users, who sign-up for free profiles, to connect with friends, work colleagues or people they don't know, online. It allows users to share pictures, music, videos, and articles, as well as their own thoughts and opinions with however many people they like.
 
+### 2. Youtube
+<img src="https://github.com/10-J4D3-06/Main/blob/main/Youtube.jpg" width="200" height="200" />
 - YouTube is a video sharing service where users can watch, like, share, comment and upload their own videos. The video service can be accessed on PCs, laptops, tablets and via mobile phones. 
 
-### Markdown
+### 3. Whatsapp
+<img src="https://github.com/10-J4D3-06/Main/blob/main/Whatsapp.jpg" width="200" height="200" />
+- WhatsApp is free to download messenger app for smartphones. WhatsApp uses the internet to send messages, images, audio or video. The service is very similar to text messaging services, however, because WhatsApp uses the internet to send messages, the cost of using WhatsApp is significantly less than texting. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 4. Instagram
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/10-J4D3-06/J4D3.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Website Links:
+1. https://www.facebook.com/
+2. https://www.youtube.com/
+3. https://www.whatsapp.com/
+4. 
