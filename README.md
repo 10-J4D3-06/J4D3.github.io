@@ -3,7 +3,7 @@
 Some of you would question me and ask, "Why would we need to use your website just by going to other websites? We would just type the website that we usually use and just enter." Well of course that is true but this is a website where we can learn more about them and store all the websites here if you forgot the name.
 
 ### 1. Facebook
-<img src= "https://github.com/10-J4D3-06/Main/blob/main/Facebook.jpg" width="200" height="200" />
+![Facebook](https://github.com/10-J4D3-06/Main/blob/main/Facebook.jpg)
 - Facebook is a website which allows users, who sign-up for free profiles, to connect with friends, work colleagues or people they don't know, online. It allows users to share pictures, music, videos, and articles, as well as their own thoughts and opinions with however many people they like.
 
 ### 2. Youtube
