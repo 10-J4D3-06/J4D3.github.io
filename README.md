@@ -1,4 +1,4 @@
-<link rel="icon" type="image/x-icon" href="Favicon Profile.ico" />
+<link rel="icon" type="image/x-icon" href="" />
 
 
 ## Welcome to my Social Media Website where we can describe them and visit some of them just by visiting this website.
