@@ -1,4 +1,4 @@
-<link rel="shortcut icon" type="image/x-icon" href="">
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 
 ## Welcome to my Social Media Website where we can describe them and visit some of them just by visiting this website.
 
