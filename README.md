@@ -1,4 +1,4 @@
-<link rel="icon" type="image/x-icon" href="https://raw.githubusercontent.com/10-J4D3-06/Main/main/Favicon%20Profile.ico" />
+<link rel="icon" type="image/x-icon" href="Favicon Profile.ico" />
 
 
 ## Welcome to my Social Media Website where we can describe them and visit some of them just by visiting this website.
