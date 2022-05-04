@@ -1,4 +1,4 @@
-<link rel="icon" type="image/x-icon" href="favicon.ico" /> <title>Social Media Short Wikipedia and Links</title>
+<link rel="icon" type="image/x-icon" href="favicon.ico" /> <title>Social Media Short Wikipedia and Links<title/>
 
 
 ## Welcome to my Social Media Website where we can describe them and visit some of them just by visiting this website.
