@@ -1,6 +1,5 @@
-<head> 
-  <link rel="icon" type="image/x-icon" href="https://github.com/10-J4D3-06/Main/blob/main/Favicon%20Profile.ico" />
-</head>
+<link rel="icon" type="image/x-icon" href="favicon.ico" />
+
 
 ## Welcome to my Social Media Website where we can describe them and visit some of them just by visiting this website.
 
