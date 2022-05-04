@@ -1,7 +1,7 @@
 
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico?">
 
-## Hey, I'm JD! Welcome to my Social Media Wikipedia Website where we can describe them and visit some of them just by visiting this website.
+## Hey, I'm JD from 9 Bobola B! Welcome to my Social Media Wikipedia Website where we can describe them and visit some of them just by visiting this website.
 
 Some of you would question me and ask, "Why would we need to use your website just by going to other websites? We would just type the website that we usually use and just enter." Well of course that is true but this is a website where we can learn more about them and store all the websites here if you forgot the name.
 
