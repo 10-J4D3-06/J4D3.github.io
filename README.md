@@ -1,4 +1,3 @@
-
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico?">
 
 ## Hey, I'm JD from 9 Bobola B! Welcome to my Social Media Wikipedia Website where we can describe them and visit some of them just by visiting this website.
