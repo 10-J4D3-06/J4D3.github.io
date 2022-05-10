@@ -33,7 +33,7 @@ Some of you would question me and ask, "Why would we need to use your website ju
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Facebook_Messenger_logo_2020.svg/2048px-Facebook_Messenger_logo_2020.svg.png" width="250" height="250" />
 
--
+- Facebook Messenger is a FREE mobile messaging app used for instant messaging, sharing photos, videos, audio recordings and for group chats. The app, which is free to download, can be used to communicate with your friends on Facebook and with your phone contacts.
 
 ### 6. WeChat
 
@@ -45,85 +45,85 @@ Some of you would question me and ask, "Why would we need to use your website ju
 
 <img src="https://logowik.com/content/uploads/images/4960-tiktok-logo-black.jpg" width="250" height="250" />
 
--
+- TikTok is a social media platform for creating, sharing and discovering short videos. The app is used by young people as an outlet to express themselves through singing, dancing, comedy, and lip-syncing, and allows users to create videos and share them across a community.
 
 ### 8. Sina Weibo
 
 <img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/Sina_Weibo.svg/1200px-Sina_Weibo.svg.png" width="250" height="250" />
 
--
+- Sina Weibo or Weibo is a microblogging website and app which compares to Twitter and Instagram. And with more than 300 million monthly active users, it is China's biggest social media platform after Tencent's WeChat.
 
 ### 9. QQ
 
 <img src="https://w7.pngwing.com/pngs/582/161/png-transparent-penguin-tencent-qq-razorbills-penguin-qq-logo-vertebrate-smiley.png" width="250" height="250" />
 
--
+- Tencent QQ or QQ is an instant messaging software service and web portal developed by the Chinese tech giant Tencent. QQ offers services that provide online social games, music, shopping, microblogging, movies, and group and voice chat software.
 
 ### 10. Telegram
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/640px-Telegram_logo.svg.png" width="250" height="250" />
 
--
+- Telegram is a cross-platform messaging service with enhanced encryption and privacy. Most messages feature client-to-server encryption, but Secret Chat messages have end-to-end encryption. Telegram also supports group chats and self-destructing messages as well.
 
 ### 11. Snapchat
 
 <img src="https://cdn2.downdetector.com/static/uploads/logo/image11.png" width="250" height="250" />
 
--
+- Snapchat is a mobile messaging application used to share photos, videos, text, and drawings. It's free to download the app and free to send messages using it. It has become hugely popular in a very short space of time, especially with young people.
 
 ### 12. Kuaishou
 
 <img src="https://www.chinabankingnews.com/wp-content/uploads/2020/11/KuaishouLogo.jpg" width="250" height="250" />
 
--
+- Kuaishou was a mobile app with which users could make and share GIF pictures. In November 2012, Kuaishou became a short video community and a platform with which users could record and share videos. By 2013, the app had reached 100 million daily users. By 2019, it exceeded 200 million active daily users.
 
 ### 13. Qzone
 
 <img src="https://cdn-icons-png.flaticon.com/512/48/48964.png" width="250" height="250" />
 
--
+- Qzone is a social networking website based in China which was created by Tencent in 2005. It allows users to write blogs, keep diaries, send photos, listen to music, and watch videos.
 
 ### 14. Pinterest
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Pinterest-logo.png" width="250" height="250" />
 
--
+- Pinterest is a visual discovery engine for finding ideas like recipes, home and style inspiration, and more. With billions of Pins on Pinterest, you'll always find ideas to spark inspiration. When you discover Pins you love, save them to boards to keep your ideas organized and easy to find.
 
 ### 15. Twitter
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/1200px-Twitter-logo.svg.png" width="250" height="250" />
 
--
+- Twitter is a service for friends, family, and coworkers to communicate and stay connected through the exchange of quick, frequent messages. People post Tweets, which may contain photos, videos, links, and text. These messages are posted to your profile, sent to your followers, and are searchable on Twitter search.
 
 ### 16. Reddit
 
 <img src="https://toppng.com/uploads/preview/reddit-logo-reddit-icon-115628658968pe8utyxjt.png" width="250" height="250" />
 
--
+- Reddit is a social news website and forum where content is socially curated and promoted by site members through voting. Reddit member registration is free, and it is required to use the website's basic features.
 
 ### 17. Quora
 
 <img src="https://www.benlcollins.com/wp-content/uploads/2016/01/quora.png" width="250" height="250" />
 
--
+- Quora is a community-based questions and answers website and app. Users post questions on any topic and other users respond. Users can sign up using Facebook, Twitter, Google or email. As part of the registration process, they are asked to select five areas of interest to follow.
 
 ### 18. Skype
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Skype_logo_%282019%E2%80%93present%29.svg/991px-Skype_logo_%282019%E2%80%93present%29.svg.png" width="250" height="250" />
 
--
+- Skype is for connecting with the people that matter most in your life and work. It's built for both one-on-one and group conversations and works wherever you are – via mobile, PC, Xbox and Alexa. Skype messaging and HD voice and video calling will help you share experiences and get things done with others.
 
 ### 19.  Microsoft Teams
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Microsoft_Office_Teams_%282018%E2%80%93present%29.svg/1200px-Microsoft_Office_Teams_%282018%E2%80%93present%29.svg.png" width="250" height="250" />
 
--
+- Microsoft Teams is a collaboration app built for hybrid work so you and your team stay informed, organized, and connected — all in one place. Explore how Teams can help you and your colleagues come together no matter where you are: Chat - Message someone or a group to talk about work, projects, or just for fun.
 
 ### 20. LinkedIn
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" width="250" height="250" />
 
--
+- LinkedIn is the world's largest professional network on the internet. You can use LinkedIn to find the right job or internship, connect and strengthen professional relationships, and learn the skills you need to succeed in your career.
 
 ### Website Links:
 1. <a href="https://www.facebook.com/">Facebook</a>
